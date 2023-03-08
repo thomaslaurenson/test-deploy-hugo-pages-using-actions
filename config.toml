@@ -1,0 +1,4 @@
+baseURL = 'http://thomaslaurenson.com/test-deploy-hugo-pages-using-actions/'
+languageCode = 'en-us'
+title = 'test-deploy-hugo-pages-using-actions'
+theme = 'PaperMod'
